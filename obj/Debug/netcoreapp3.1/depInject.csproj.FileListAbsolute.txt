@@ -1,0 +1,13 @@
+C:\Users\hassa\source\repos\depInject\depInject\bin\Debug\netcoreapp3.1\depInject.exe
+C:\Users\hassa\source\repos\depInject\depInject\bin\Debug\netcoreapp3.1\depInject.deps.json
+C:\Users\hassa\source\repos\depInject\depInject\bin\Debug\netcoreapp3.1\depInject.runtimeconfig.json
+C:\Users\hassa\source\repos\depInject\depInject\bin\Debug\netcoreapp3.1\depInject.runtimeconfig.dev.json
+C:\Users\hassa\source\repos\depInject\depInject\bin\Debug\netcoreapp3.1\depInject.dll
+C:\Users\hassa\source\repos\depInject\depInject\bin\Debug\netcoreapp3.1\depInject.pdb
+C:\Users\hassa\source\repos\depInject\depInject\obj\Debug\netcoreapp3.1\depInject.csprojAssemblyReference.cache
+C:\Users\hassa\source\repos\depInject\depInject\obj\Debug\netcoreapp3.1\depInject.AssemblyInfoInputs.cache
+C:\Users\hassa\source\repos\depInject\depInject\obj\Debug\netcoreapp3.1\depInject.AssemblyInfo.cs
+C:\Users\hassa\source\repos\depInject\depInject\obj\Debug\netcoreapp3.1\depInject.csproj.CoreCompileInputs.cache
+C:\Users\hassa\source\repos\depInject\depInject\obj\Debug\netcoreapp3.1\depInject.dll
+C:\Users\hassa\source\repos\depInject\depInject\obj\Debug\netcoreapp3.1\depInject.pdb
+C:\Users\hassa\source\repos\depInject\depInject\obj\Debug\netcoreapp3.1\depInject.genruntimeconfig.cache

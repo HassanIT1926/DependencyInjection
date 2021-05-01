@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MFAlaZMxckcSoflQ5b4VS88+Ztriu/Q9Zw9zfdMcWI+8GYXMVoeoC4zxmBiz5Uf3t613L9KlrhSJSeCA76XyMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hassa\\source\\repos\\depInject\\depInject\\depInject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hassa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
